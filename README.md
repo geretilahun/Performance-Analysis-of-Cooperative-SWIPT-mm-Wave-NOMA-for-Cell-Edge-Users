@@ -3,3 +3,6 @@ The performance analysis of simultaneous wireless information and power transfer
 
 # linK for Jimma University repository 
 https://repository.ju.edu.et/handle/123456789/7615
+
+
+
